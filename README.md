@@ -18,6 +18,7 @@ A series of bi-weekly lessons in collaboration with CORE and ADI that will provi
 * How to use APIs (using Mandrill for email, Twilio for texting, and Facebook as examples)
 * Angular.js
 * Node.js & Express
+* MongoDB
 * Deployment w/ Heroku, Digital Ocean, etc.
 
 ### Feedback

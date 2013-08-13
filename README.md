@@ -13,7 +13,12 @@ A series of bi-weekly lessons in collaboration with CORE and ADI that will provi
 
 ### Topics
 
-* Learning HTML/CSS through creating a splash page for your startup
+* Learning HTML/CSS through creating a splash page for your startup using Bootstrap
+* Javascript/jQuery tricks and tips 
+* How to use APIs (using Mandrill for email, Twilio for texting, and Facebook as examples)
+* Angular.js
+* Node.js & Express
+* Deployment w/ Heroku, Digital Ocean, etc.
 
 ### Feedback
 
